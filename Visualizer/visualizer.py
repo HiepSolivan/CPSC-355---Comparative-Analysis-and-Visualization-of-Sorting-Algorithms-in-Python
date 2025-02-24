@@ -36,6 +36,8 @@ start_button = Button(100, 50, start_button_img)
 pause_button = Button(100, 250, pause_button_img)
 reset_button = Button(100, 450, reset_button_img)
 
+# TODO: Implement visualization_tool which calls the various sorts + searches then makes visualization of the process
+
 # Visualizer game loop
 running = True
 while running:
